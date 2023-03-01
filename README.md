@@ -23,7 +23,7 @@
 <h3>:man_technologist: About Me :</h3>
 <ul>
   <li>I am Junior Frontend developer from Kyiv, Ukraine.</li>
-  <li> <a href=""> You can view my :page_with_curl: CV by clicking on this text </a>
+  <li> <a href="https://drive.google.com/file/d/1UsHNSZX5COsmSQMIY-lVl1QHAJU-FAOy/view?usp=share_link"> You can view my :page_with_curl: CV by clicking on this text </a>
   <li>I have completed frontend development courses and have <a href="https://drive.google.com/drive/folders/1onJEOHl57lzz60U6R0oGHAmcFv--evKh?usp=sharing"> certificates</a> </li>
   <li>Now i am successfully learning react :electron:</li>
   <li>I am motivated to find a job as a front-end developer, create new interesting projects, work successfully, learn and acquire new skills</li>
