@@ -25,7 +25,7 @@
   <li>I am Junior Frontend developer from Kyiv, Ukraine.</li>
   <li> <a href="https://drive.google.com/file/d/13BYj7IF5HwTzp84mXtuHO9aAiOk6fyGi/view?usp=sharing"> You can view my :page_with_curl: CV by clicking on this text </a>
   <li>I have completed frontend development courses and have <a href="https://drive.google.com/drive/folders/1onJEOHl57lzz60U6R0oGHAmcFv--evKh?usp=sharing"> certificates</a> </li>
-  <li>Now i am successfully learning react :electron:</li>
+  <li>I know React and have a :electron: <a href="https://drive.google.com/file/d/1J2zWMHLs6_59tf8jhN5nCh-gf3HB1RF-/view?usp=drive_link"> certificate</a></li> 
   <li>I am motivated to find a job as a front-end developer, create new interesting projects, work successfully, learn and acquire new skills</li>
   <li> :mailbox:How to reach me:
     <a href="https://www.linkedin.com/in/volodymyr-khrushch-765281252/">
